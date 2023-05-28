@@ -1,12 +1,14 @@
-
-Hey there, I'm antiv-2
-
-![spy-x-family-anya](https://github.com/anti-v2/anti-v2/assets/71509456/79e96c42-f447-4efe-afd4-ec8eb98fb631)
+<div>
+<img align="right" src="![spy-x-family-anya](https://github.com/anti-v2/anti-v2/assets/71509456/4cf95130-02e1-4153-9a15-0ce6813de6f1)">
+  <h1 align="center"> Hey there, I'm antiv-2</a></h1>
+How are you doing? Thank you for dropping by, if I am not a developer or typical coder.I am either watching anime, or do rices
 
 How are you doing? Thank you for dropping by, if I am not a typical coder or developerI am either watching anime, or ricing. 
 
 Few Things about me :
-➢ College Student 
-➢ An linux enthuu 😀
-➢ Fanboi of window managers
-➢ Have some knowledge about CyberSecurity & programming
+ <ul>
+   <li>➢College Student </li>
+   <li>➢ An linux enthuu 😀</li>
+  <li>➢ Fanboi of window managers  </li>
+  <li> ➢ Have some knowledge about CyberSecurity & programming  </li>
+   <div>
