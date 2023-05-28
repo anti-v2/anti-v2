@@ -1,5 +1,5 @@
 <div>
-<img align="right" src="https://media.tenor.com/Pb1TfZhr-OQAAAAC/spy-x-family-anya.gif">
+<img align="center" src="https://media.tenor.com/Pb1TfZhr-OQAAAAC/spy-x-family-anya.gif">
   <h1 align="center"> Hey there, I'm antiv-2</a></h1>
 How are you doing? Thank you for dropping by, if I am not a developer or typical coder.I am either watching anime, or do rices
 
