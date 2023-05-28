@@ -1,7 +1,7 @@
 <div>
 <img align="right" src="https://media.tenor.com/3eZTvcXcexgAAAAM/korezui-anime.gif">
   <h1 align="center"> こんにちは、私はアンチv2です。☺️</a></h1>
-Hey thanks for dropping by 🙂 🙂 🙂 🙂 🙂
+Hey thanks for dropping by ♥️
 
 
 Few Things about me :
