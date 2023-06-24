@@ -1,6 +1,6 @@
 <div>
 <img align="right" src="https://media.tenor.com/3eZTvcXcexgAAAAM/korezui-anime.gif">
-  <h1 align="center"> Hello I am anti-v2。☺️</a></h1>
+  <h1 align="center"> Hello I am anti-v2☺️</a></h1>
 Hey thanks for dropping by ♥️
 
 
