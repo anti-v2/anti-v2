@@ -8,6 +8,6 @@ Few Things about me :
  <ul>
    <li>College Student </li>
    <li> An linux enthuu 🧑‍💻</li>
-  <li> Fanbōi of window managers  </li>
+  <li> Diving into tech  </li>
   <li>  Learning programming  </li>
    <div>
