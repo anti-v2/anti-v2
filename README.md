@@ -9,5 +9,5 @@ Few Things about me :
    <li>College Student </li>
    <li> An linux enthuu 🧑‍💻</li>
   <li> Fanbōi of window managers  </li>
-  <li>  Have some little knowledge about programming and shell scripting  </li>
+  <li>  Learning programming  </li>
    <div>
