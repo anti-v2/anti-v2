@@ -1,5 +1,5 @@
 <div>
-<img align="right" src="https://media1.tenor.com/m/cpFUkEptBcUAAAAC/namaste-gifkaro.gif">
+<img align="right" src="https://media1.tenor.com/m/cpFUkEptBcUAAAAC/namaste-gifkaro.gif" width="200" height="200">
   <h1 align="center"> Hello I am anti-v2</a></h1>
 Hey thanks for dropping by ♥️
 
